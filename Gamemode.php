@@ -6,7 +6,7 @@ description=Change you're gamemode with /gm.
 version=1.0
 author=DarkN3ss
 class=Gamemode
-apiversion=10
+apiversion=8,9,10,11,12,13,14
 */
 class Gamemode implements Plugin{
    private $api;
