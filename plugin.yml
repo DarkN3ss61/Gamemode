@@ -1,0 +1,8 @@
+name: Gamemode
+main: DarkN3ss\Gamemode\Gamemode
+version: 1.0.0
+api: 1.0.0
+commands:
+ gm:
+  description: "Cange your gamemode"
+  usage: "/gm <0/1/2/3>"
